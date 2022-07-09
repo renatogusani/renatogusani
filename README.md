@@ -8,7 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=renatogusani&label=Profile%20views&color=0e75b6&style=plastic" alt="renatogusani" /> 
-	</a>
 </p>
 
 
@@ -23,7 +22,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=tokyonight_duo)](https://git.io/streak-stats" /></p>
+<p align="center"><img src="(https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=city-lights)](https://git.io/streak-stats)" /></p>
 
 <br>
 <br>
