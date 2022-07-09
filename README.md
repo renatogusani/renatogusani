@@ -23,7 +23,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-<img src="[(https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=solarized-dark)(https://git.io/streak-stats)]">
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=solarized-dark)](https://git.io/streak-stats)">
 </p>
 
 <br>
