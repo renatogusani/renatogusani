@@ -23,7 +23,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=city-lights)](https://git.io/streak-stats)>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=renatogusani&theme=city-lights)](https://git.io/streak-stats)">
 </p>
 
 <br>
