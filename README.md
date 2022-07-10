@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> 
-* [![PayPal Me][PayPal.org]][PayPal-url]
+* [![PayPal][PayPal.org]][PayPal-url]
 </p>
 
 ## About me
