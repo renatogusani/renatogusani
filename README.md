@@ -1,6 +1,6 @@
 <h1 align="center">Hi , Renato Gusani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/renatogusani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Avid+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/renatogusani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Avid+Programmer;Always%20learning%20new%20things%20Python|%20ML%20Stats&center=true&width=500&height=50"></a>
 </p>
 
 
