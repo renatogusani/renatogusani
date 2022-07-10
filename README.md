@@ -12,6 +12,7 @@
 
 
 
+
 ## About me
 - :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
 - :student: I’m currently studying: [`Data Science`](https://github.com/renatogusani/BSc-Data-Science)
@@ -27,3 +28,7 @@
 
 <br>
 <br>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Paypal.org]: https://img.shields.io/badge/Paypal-20232A?style=for-the-badge&logo=paypal&logoColor=61DAFB
+[Paypal-url]: https://www.markdownguide.org
