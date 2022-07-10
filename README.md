@@ -28,5 +28,18 @@
 <br>
 <br>
 
-<!-- MARKDOWN LINKS & IMAGES -->
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/renatogusani"><img alt="renatogusani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=renatogusani&custom_title=renatogusani's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renatogusani&layout=compact&theme=algolia" alt="renatogusani" /></a> </p>
+
 
