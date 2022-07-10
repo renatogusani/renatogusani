@@ -11,7 +11,7 @@
 </p>
 
 
-
+* [![PayPal][PayPal.org]][PayPal-url]
 
 ## About me
 - :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
@@ -30,5 +30,5 @@
 <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Paypal.org]: https://img.shields.io/badge/Paypal-20232A?style=for-the-badge&logo=paypal&logoColor=61DAFB
-[Paypal-url]: https://www.markdownguide.org
+[PayPal.org]: https://img.shields.io/badge/PayPal-20232A?style=for-the-badge&logo=paypal&logoColor=61DAFB
+[PayPal-url]: https://www.markdownguide.org
