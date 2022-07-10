@@ -19,7 +19,7 @@
 
 <br>
 
-## 🔥 Streak Stats
+## 🔥 GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renatogusani&theme=solarized-dark">
 </p>
