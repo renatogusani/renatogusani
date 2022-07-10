@@ -10,8 +10,9 @@
 	<img src="https://komarev.com/ghpvc/?username=renatogusani&label=Profile%20views&color=0e75b6&style=plastic" alt="renatogusani" /> 
 </p>
 
-
-* [![PayPal][PayPal.org]][PayPal-url]
+<p align="center"> 
+* [![PayPal Me][PayPal.org]][PayPal-url]
+</p>
 
 ## About me
 - :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
