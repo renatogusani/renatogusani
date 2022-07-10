@@ -14,7 +14,7 @@
 
 ## About me
 - :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
-- :student: I’m currently learning: [`Data Science`](https://github.com/renatogusani/BSc-Data-Science).
+- :student: I’m currently learning: [`Data Science`](https://github.com/renatogusani/BSc-Data-Science). < - - - Click to see 
 - :nerd_face: Always `learning new things`
 
 <br>
