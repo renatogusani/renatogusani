@@ -15,7 +15,7 @@
 ## About me
 - :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
 - :student: I’m currently studying: [`Data Science`](https://github.com/renatogusani/BSc-Data-Science)
-- :computer: I am currently working on my Final Year Project [`SpaceXplorer`](https://github.com/renatogusani/SpaceXplorer)
+- :computer: I am currently working on my Final Year Project [`www.spacexplorer.info`](https://github.com/renatogusani/SpaceXplorer)
 - :nerd_face: Always `learning new things`
 
 <br>
