@@ -1,32 +1,50 @@
-<h1 align="center">Hi , I'm Renato Gusani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Renato Gusani
+</h1>
+
 <p align="center">
-  <a href="https://github.com/renatogusani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Avid+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+Cybersecurity Analyst @ IBM · Founder @ VNTA  
 </p>
 
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=renatogusani&label=Profile%20views&color=0e75b6&style=plastic" alt="renatogusani" /> 
-</p>
-
-
-
-## About me
-- :school: I am a `Final Year Student` at the School of Computing at National College of Ireland
-- :student: I’m currently studying: [`Data Science`](https://github.com/renatogusani/BSc-Data-Science)
-- :computer: I am currently working on my Final Year Project [`www.spacexplorer.info`](https://github.com/renatogusani/SpaceXplorer)
-- :nerd_face: Always `learning new things`
-
-<br>
-
-## 🔥 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renatogusani&theme=solarized-dark">
+Dublin, Ireland
 </p>
 
-<br>
-<br>
+---
 
-----
+## About
 
+I work at the intersection of **security, systems, and venture building**.
+
+By day, I’m a **Cybersecurity Analyst at IBM**, focused on detection engineering, analysis, and strengthening security posture at scale.  
+Alongside this, I’m the **founder of VNTA**, a Dublin-based venture studio exploring culture, creation, and disciplined execution across multiple projects.
+
+My work is grounded in clarity, restraint, and long-term thinking — building quietly, deliberately, and with purpose.
+
+---
+
+## Current Focus
+
+- Cybersecurity analysis & detection engineering  
+- Venture design & strategy (VNTA)  
+- Building early-stage products with intention  
+- Systems, tooling, and operational discipline  
+
+---
+
+## Background
+
+- **BSc Data Science**, National College of Ireland  
+- Experience spanning data, security, and applied software  
+- Strong interest in minimal systems that scale without noise  
+
+---
+
+## GitHub
+
+This GitHub serves as a working archive — experiments, tools, and projects developed over time.  
+Not everything here is active, but everything here reflects learning.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renatogusani&label=Views&color=6e6e6e&style=flat" alt="profile views" />
+</p>
